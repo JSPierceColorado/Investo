@@ -1,0 +1,8 @@
+# Pinned for Python 3.12-slim
+ib_insync==0.9.86
+pandas==2.2.2
+numpy==1.26.4
+requests==2.32.3
+lxml==5.3.0
+html5lib==1.1
+beautifulsoup4==4.12.3
