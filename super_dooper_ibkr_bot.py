@@ -466,8 +466,7 @@ def run_wsb_investor(ib: IB):
 # ------------------------------ Main Runner ------------------------------- #
 
 def run_cycle(ib: IB):
-    print("
-================= CYCLE START =================")
+    print("================= CYCLE START =================")
     print(f"[Time] {datetime.now().isoformat(timespec='seconds')}")
 
     process_positions_for_sales(ib)
