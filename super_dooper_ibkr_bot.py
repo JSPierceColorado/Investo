@@ -474,8 +474,7 @@ def run_cycle(ib: IB):
     run_xrp_investor(ib)
     run_wsb_investor(ib)
 
-    print("================== CYCLE END ==================
-")
+    print("================== CYCLE END ==================")
 
 
 def main():
